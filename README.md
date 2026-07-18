@@ -9,8 +9,7 @@
 
 ## 📌 專案背景
 
-本專案依據 [PAPAYA 電腦教室 — Python 零基礎快速上手](https://www.youtube.com/playlist?list=PL7enJ2-v6SPk5vrrzV_f0QJy7bDa06vI5) 系列課程設計。
-每個功能模組都直接對應課程章節，目標是讓學習者「學了就用」，並以實際可運作的專案作為學習歷程紀錄。
+本專案的目的是 能夠以最小限度的開發複習python技能。
 
 ---
 
