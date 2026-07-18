@@ -1,6 +1,6 @@
-# 🐍 python-zero-to-app
+# 🐍 python-Train
 
-> **個人財務記帳 CLI App** — 整合 PAPAYA 電腦教室《Python 零基礎快速上手》課程所有核心知識點
+> **個人財務記帳 CLI App** 
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
